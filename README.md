@@ -18,6 +18,9 @@ yarn
 
 # run the project
 yarn storybook
+
+# run tests in watch mode
+yarn test
 ```
 
 Open the url [http://localhost:9009](http://localhost:9009) in your browser.
